@@ -1,3 +1,3 @@
 # component_in_android
-wiki
+https://github.com/trantronghien/component_in_android/wiki
 
